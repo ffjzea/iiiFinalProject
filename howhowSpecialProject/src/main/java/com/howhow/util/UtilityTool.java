@@ -44,7 +44,7 @@ public class UtilityTool {
 		mailSender.setHost("smtp.gmail.com");
 		mailSender.setPort(587);
 		mailSender.setUsername("howhowweb@gmail.com");
-		mailSender.setPassword("sfjdvwbkiwxsyrow");
+		mailSender.setPassword("s9654");
 
 		Properties mailProperties = new Properties();
 		mailProperties.setProperty("mail.smtp.auth", "true");
